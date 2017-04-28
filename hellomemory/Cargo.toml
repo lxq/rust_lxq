@@ -1,0 +1,6 @@
+[package]
+name = "hellomemory"
+version = "0.1.0"
+authors = ["lxq <lxq@weetgo.com>"]
+
+[dependencies]
